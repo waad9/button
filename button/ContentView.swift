@@ -55,7 +55,7 @@ struct ContentView: View {
                         Button("Entertainment"){}
                             .buttonStyle(.bordered)
                             .foregroundColor(Color("Color 1"))
-                        Button("Focus"){}
+                        Button("Focuss"){}
                             .buttonStyle(.bordered)
                             .foregroundColor(Color("Color 1"))
                         
