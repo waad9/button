@@ -70,7 +70,7 @@ struct smury: View {
                 
                 
                 //---------------------------------
-                Text("Breaks typs")
+                Text("Breakss typs")
                     .font(.largeTitle)
                     .foregroundColor(Color("Color 1"))
                 VStack{
